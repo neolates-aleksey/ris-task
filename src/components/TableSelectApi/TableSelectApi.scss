@@ -1,0 +1,12 @@
+@import "src/variables";
+
+.table-select {
+  padding: 5px;
+  border: 1px solid $color-border;
+  border-radius: 6px;
+  height: 35px;
+  
+  &__option {
+    border: 1px solid $color-border;
+  }
+}
